@@ -1,4 +1,11 @@
 # Login_and_registration
+```
+Login and Password of an existing user:
+
+Login: denis.m.pcspace@gmail.com
+
+Password: dmgame12345
+```
 
 [Сlick to see result Login app](https://crashmet.github.io/Login_to_server/dist/index)
 --
