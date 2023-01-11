@@ -7,9 +7,9 @@ Login: denis.m.pcspace@gmail.com
 Password: dmgame12345
 ```
 
-[Сlick to see result Login app](https://crashmet.github.io/Login_to_server/dist/index)
+[Сlick to see result Login app](https://crashmet.github.io/Login_and_registration/Login_to_server/dist/index)
 --
-[Сlick to see result Registration app](https://crashmet.github.io/Registration_to_server/dist/index)
+[Сlick to see result Registration app](https://crashmet.github.io/Login_and_registration/Registration_to_server/dist/index)
 --
 ```
 HI, this is my second project on Webpack
